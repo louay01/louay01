@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louay El Masri
-- 👀 I’m interested in Robotics and Ai
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in all sort of technologies
+- 🌱 I’m currently working as a C# Backend developper
 - 💞️ I’m looking to collaborate on some future projects
 - 📫 How to reach me ...
 
